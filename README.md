@@ -1,4 +1,4 @@
-# @AisuYummy <img src='https://komarev.com/ghpvc/?username=tildae&style=flat&color=0088ff' />
+# @awkwifey <img src='https://komarev.com/ghpvc/?username=tildae&style=flat&color=0088ff' />
 
 <img src='./cover.jpg#gh-dark-mode-only' />
 <img src='./coverl.jpg#gh-light-mode-only' />
